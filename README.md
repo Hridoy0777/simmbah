@@ -1,8 +1,8 @@
 # simmbah
 
-#user name :- Riddu999
+# user name :- Riddu999
 
-#password :- simmbah
+# password :- simmbah
 
 rm -rf simmbah
 
