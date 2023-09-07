@@ -1,4 +1,8 @@
 # simmbah
+user name :- Riddu999
+
+password :- simmbah
+
 rm -rf simmbah
 
 git clone https://github.com/Hridoy0777/simmbah
